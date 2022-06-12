@@ -3,8 +3,8 @@
 
 # Installation
 Copy the files to these locations:
-- `$VIMRUNTIME/filetype.vim`
-- `$VIMRUNTIME/syntax/vpl.vim`
+- `~/.vim/filetype.vim`
+- `~/.vim/syntax/vpl.vim`
 
 # License
 Public Domain

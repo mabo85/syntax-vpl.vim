@@ -14,7 +14,7 @@ endif
 " shut case off
 syn case ignore
 
-syn match vplBookName        "^.*\ze\(\d\+[:.]\d\+\)"
+syn match vplBookName        "^.*\ze\(\s\+\d\+[:.]\d\+\)"
 syn match vplVerseNumber     "\d\+[:.]\d\+"
 " syn match vplScripture       "\s\+.*$"
 
